@@ -11,7 +11,7 @@
 <a href="https://medium.com/@shrivastava_vishal"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120670-f1d377e0-48b6-46a6-b8e1-8b748b630a2b.png" alt="Vishal | Medium" /></a>
 </br>
 
-
+</br>
 - 👨🏽‍💻 I’m a graduate student at Northwestern University majoring in Artificial Intelligence
 - 🔭 My current research interest: Distributed knowledge representation and interactive learning with privacy preservation in stochastic multi-agent environments
 - 💬 (Not so) guilty pleasure: Passionate discussions over freshly brewed coffee on topics ranging from the origin of life to the plots of Christopher Nolan's timeless masterpieces; and virtually everything in between
