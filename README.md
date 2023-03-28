@@ -3,6 +3,15 @@
 ## Hi there! I'm Vishal 👋
 
 
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/shri-v/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Vishal | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/v.the.wise/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Vishal | Instagram" width="21px"/></a>
+<a href="https://medium.com/@shrivastava_vishal"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Vishal | Medium" width="21px"/></a>
+</br>
+
+
 - 👨🏽‍💻 I’m a graduate student at Northwestern University majoring in Artificial Intelligence
 - 🔭 My current research interest: Distributed knowledge representation and interactive learning with privacy preservation in stochastic multi-agent environments
 - 💬 (Not so) guilty pleasure: Passionate discussions over freshly brewed coffee on topics ranging from the origin of life to the plots of Christopher Nolan's timeless masterpieces; and virtually everything in between
