@@ -8,15 +8,15 @@
 - 💬 (Not so) guilty pleasure: Passionate discussions over freshly brewed coffee on topics ranging from the origin of life to the plots of Christopher Nolan's timeless masterpieces; and virtually everything in between
 - 📫 Write to me at shrivastava_vishal@outlook.com
 - ⚡ Key Interests
-```
-* Artificial Life
-* Nature-inspired architectures & algorithms
-* Machine and deep learning theories
-* Data structures & algorithms
-* Computational complexity theories
-* Cognitive modeling & decision theories
-* Quantum cognition 
-```
+    ```
+    * Artificial Life
+    * Nature-inspired architectures & algorithms
+    * Machine and deep learning theories
+    * Data structures & algorithms
+    * Computational complexity theories
+    * Cognitive modeling & decision theories
+    * Quantum cognition 
+    ```
 
 
 <!--
