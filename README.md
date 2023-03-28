@@ -6,7 +6,7 @@
 
 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/shri-v/"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120495-93281a5a-9a0a-4787-a523-40306f6a12b2.png" alt="Vishal | LinkedIn" width='300' height='50'/></a>
+<a href="https://www.linkedin.com/in/shri-v/"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120495-93281a5a-9a0a-4787-a523-40306f6a12b2.png" alt="Vishal | LinkedIn" width='200' height='50'/></a>
 <a href="https://www.instagram.com/v.the.wise/"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120718-f28d0e78-4b1b-4087-875f-a0f641a3cadc.png" alt="Vishal | Instagram" /></a>
 <a href="https://medium.com/@shrivastava_vishal"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120670-f1d377e0-48b6-46a6-b8e1-8b748b630a2b.png" alt="Vishal | Medium" /></a>
 </br>
