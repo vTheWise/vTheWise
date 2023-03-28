@@ -27,4 +27,4 @@
     * Quantum cognition 
     ```
 
-[![Artificial Life](https://img.youtube.com/vi/cxVyn95cWYo&t=4s/maxresdefault.jpg)](https://youtu.be/cxVyn95cWYo&t=4s)
+[![Artificial Life](https://img.youtube.com/vi/cxVyn95cWYo&t/maxresdefault.jpg)](https://youtu.be/cxVyn95cWYo&t)
