@@ -26,3 +26,5 @@
     * Cognitive modeling & decision theories
     * Quantum cognition 
     ```
+
+[!Artificial Life](https://img.youtube.com/vi/JzwM6oWdAnE/maxresdefault.jpg)](https://youtu.be/JzwM6oWdAnE)
