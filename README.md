@@ -6,10 +6,10 @@
 
 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/shri-v/"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120495-93281a5a-9a0a-4787-a523-40306f6a12b2.png" alt="Vishal | LinkedIn" width='100' height='40'/></a>
-<a href="https://www.instagram.com/v.the.wise/"><img align="left" src="https://user-images.githubusercontent.com/114791876/228122774-2133e69a-106b-41c9-96a1-a10cc50c8493.png" alt="Vishal | Instagram" width='100' height='40'/></a>
-<a href="https://medium.com/@shrivastava_vishal"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120670-f1d377e0-48b6-46a6-b8e1-8b748b630a2b.png" alt="Vishal | Medium" width='100' height='40'/></a>
-<a href="https://www.youtube.com/channel/UCrQP9kdRmtVdF35Jfdct9nA"><img align="left" src="https://user-images.githubusercontent.com/114791876/228123060-73b12095-e934-43b5-b54a-934574caad20.png" alt="Vishal | YouTube" width='100' height='40'/></a>
+<a href="https://www.linkedin.com/in/shri-v/"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120495-93281a5a-9a0a-4787-a523-40306f6a12b2.png" alt="Vishal | LinkedIn" width='150' height='40'/></a>
+<a href="https://www.instagram.com/v.the.wise/"><img align="left" src="https://user-images.githubusercontent.com/114791876/228122774-2133e69a-106b-41c9-96a1-a10cc50c8493.png" alt="Vishal | Instagram" width='150' height='40'/></a>
+<a href="https://medium.com/@shrivastava_vishal"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120670-f1d377e0-48b6-46a6-b8e1-8b748b630a2b.png" alt="Vishal | Medium" width='150' height='40'/></a>
+<a href="https://www.youtube.com/channel/UCrQP9kdRmtVdF35Jfdct9nA"><img align="left" src="https://user-images.githubusercontent.com/114791876/228123060-73b12095-e934-43b5-b54a-934574caad20.png" alt="Vishal | YouTube" width='150' height='40'/></a>
 </br>
 </br>
 
