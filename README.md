@@ -1,4 +1,4 @@
-<img src="cover.png" />
+<img src="Cover.png" />
 
 ## Hi there! I'm Vishal 👋
 
