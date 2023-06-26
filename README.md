@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/114791876/228115730-d95f7790-b32e-4713-b4af-352e4e88d156.png" />
+<img src="https://user-images.githubusercontent.com/114791876/6eb92baf-b4cf-4c29-a4eb-982d442d95cd.png" />
 
 ## Hi there! I'm Vishal 👋
 
