@@ -1,4 +1,4 @@
-<img src="Vishal%20Shrivastava.png" />
+<img src="cover.png" />
 
 ## Hi there! I'm Vishal 👋
 
