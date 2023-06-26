@@ -1,4 +1,4 @@
-<img src="https://github.com/vTheWise/vTheWise/main/Vishal%20Shrivastava.png" />
+<img src="Vishal%20Shrivastava.png" />
 
 ## Hi there! I'm Vishal 👋
 
