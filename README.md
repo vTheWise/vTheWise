@@ -28,4 +28,6 @@
     * Quantum cognition 
     ```
 
+### Fun Stuff
+
 [![Artificial Life](https://img.youtube.com/vi/cxVyn95cWYo/maxresdefault.jpg)](https://youtu.be/cxVyn95cWYo)
