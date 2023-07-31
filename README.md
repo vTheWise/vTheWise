@@ -3,7 +3,7 @@
 ## Hi there! I'm Vishal 👋
 
 
-
+<!--
 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/shri-v/"><img align="left" src="https://user-images.githubusercontent.com/114791876/228120495-93281a5a-9a0a-4787-a523-40306f6a12b2.png" alt="Vishal | LinkedIn" width='150' height='40'/></a>
@@ -12,6 +12,7 @@
 <a href="https://www.youtube.com/channel/UCrQP9kdRmtVdF35Jfdct9nA"><img align="left" src="https://user-images.githubusercontent.com/114791876/228123060-73b12095-e934-43b5-b54a-934574caad20.png" alt="Vishal | YouTube" width='150' height='40'/></a>
 </br>
 </br>
+-->
 
 - 👨🏽‍💻 I’m a graduate student at Northwestern University majoring in Artificial Intelligence
 - 🔭 My current research interest: Distributed knowledge representation and interactive learning with privacy preservation in stochastic multi-agent environments
