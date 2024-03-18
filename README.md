@@ -22,13 +22,13 @@
 - ⚡ Key Interests
     ```
     * Artificial Life
-    * Nature-inspired architectures & algorithms
-    * Machine and deep learning theories
+    * Nature-Inspired Architectures & Algorithms
+    * Machine and Deep Learning Theories
     * Natural Language Processing (NLP)
-    * Data structures & algorithms
+    * Data Structures & Algorithms
     * Multimodal Generative AI
-    * Computational complexity theories
-    * Cognitive modeling & decision theories
+    * Computational Complexity Theories
+    * Cognitive Modeling & Decision Theories
     ```
 
 ### Fun Stuff
