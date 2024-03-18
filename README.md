@@ -33,6 +33,6 @@
 
 ### Fun Stuff
 
-[![Artificial Life](https://img.youtube.com/vi/JzwM6oWdAnE/maxresdefault.jpg)](https://youtu.be/JzwM6oWdAnE)
+[![Artificial Life](b_roll.jpeg)](https://youtu.be/JzwM6oWdAnE)
 
-[![Artificial Life](https://img.youtube.com/vi/cxVyn95cWYo/maxresdefault.jpg)](https://youtu.be/cxVyn95cWYo)
+[![Artificial Life](hypothesis.png)](https://youtu.be/cxVyn95cWYo)
