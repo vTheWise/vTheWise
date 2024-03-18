@@ -14,19 +14,21 @@
 </br>
 -->
 
-- 👨🏽‍💻 I’m a graduate student at Northwestern University majoring in Artificial Intelligence
-- 🔭 My current research interest: Distributed knowledge representation and interactive learning with privacy preservation in stochastic multi-agent environments
+- 👨🏽‍💻 Recent AI Master's graduate from Northwestern with a fervor for AI architecture and research.
+- :man_technologist: Boasting over 3 years of hands-on experience crafting AI/ML-driven software solutions in healthcare and CRM sectors
+- 🔭 Current research interest: Distributed knowledge representation and interactive learning with privacy preservation in stochastic multi-agent environments
 - 💬 (Not so) guilty pleasure: Passionate discussions over freshly brewed coffee on topics ranging from the origin of life to the plots of Christopher Nolan's timeless masterpieces; and virtually everything in between
-- 📫 Write to me at shrivastava_vishal@outlook.com
+
 - ⚡ Key Interests
     ```
     * Artificial Life
     * Nature-inspired architectures & algorithms
     * Machine and deep learning theories
+    * Natural Language Processing (NLP)
     * Data structures & algorithms
+    * Multimodal Generative AI
     * Computational complexity theories
     * Cognitive modeling & decision theories
-    * Quantum cognition 
     ```
 
 ### Fun Stuff
