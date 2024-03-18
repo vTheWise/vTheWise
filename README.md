@@ -33,7 +33,7 @@
 
 ### Fun Stuff
 
-#### Education in Evolutionary Robotics Random Evolution: B-Roll
+#### [!Education in Evolutionary Robotics Random Evolution: B-Roll](https://youtu.be/JzwM6oWdAnE)
 [![Artificial Life](b_roll.jpeg)](https://youtu.be/JzwM6oWdAnE)
 
 #### Education in Evolutionary Robotics Random Evolution - Final Project
