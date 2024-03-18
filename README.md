@@ -31,10 +31,10 @@
     * Cognitive Modeling & Decision Theories
     ```
 
-### Fun Stuff
+### <b>Fun Stuff</b>
 
-#### [!Education in Evolutionary Robotics Random Evolution: B-Roll](https://youtu.be/JzwM6oWdAnE)
+#### [Education in Evolutionary Robotics Random Evolution: B-Roll](https://youtu.be/JzwM6oWdAnE)
 [![Artificial Life](b_roll.jpeg)](https://youtu.be/JzwM6oWdAnE)
 
-#### Education in Evolutionary Robotics Random Evolution - Final Project
+#### [Education in Evolutionary Robotics Random Evolution - Final Project](https://youtu.be/cxVyn95cWYo)
 [![Artificial Life](hypothesis.png)](https://youtu.be/cxVyn95cWYo)
