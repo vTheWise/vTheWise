@@ -14,8 +14,8 @@
 </br>
 -->
 
-- :man_student: Recent AI Master's graduate from Northwestern with a fervor for AI architecture and research.
-- :man_technologist: Boasting over 3 years of hands-on experience crafting AI/ML-driven software solutions in healthcare and CRM sectors
+- :man_student: Graduated with a Master's degree in Artificial Intelligence from Northwestern University with a fervor for AI architecture and research.
+- :man_technologist: Boasting over 5 years of hands-on experience crafting AI/ML-driven software solutions in healthcare and CRM sectors
 - :telescope: Current research interest: Distributed knowledge representation and interactive learning with privacy preservation in stochastic multi-agent environments
 - :speech_balloon: (Not so) guilty pleasure: Passionate discussions over freshly brewed coffee on topics ranging from the origin of life to the plots of Christopher Nolan's timeless masterpieces; and virtually everything in between
 
